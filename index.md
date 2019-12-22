@@ -1,6 +1,5 @@
 ## about me
-
+ツイッターやってます
 
 ## link
-ツイッターやってます
 https://twitter.com/yoshiteru
