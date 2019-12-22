@@ -1,5 +1,6 @@
 ## about me
-# yoshiteru nakamura
+
 
 ## link
+ツイッターやってます
 https://twitter.com/yoshiteru
