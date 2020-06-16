@@ -21,21 +21,24 @@ CSIRT構築・運営、
 ネットワーク構築
 
 ## 保有スキル（Skills）
-HTML
-Python
-Perl
-VBScript
+HTML、CSS、
+Python、JavaScript
+Perl、
+VBScript、Swift
 
 ## 使用ツール（Tools）
-Visual Studio Code
-Xcode
-Android Studio
-OWASP ZAP
-Adobe Acrobat
-Cubase
+Visual Studio Code、
+Xcode、
+Android Studio、
+OWASP ZAP、
+Adobe Acrobat、
+Cubase、
 Logic Pro
 
 ## 保有資格（Qualified）
 情報処理安全確保支援士、
 2級ファイナンシャル・プランニング技能士、
 日商簿記検定試験2級
+
+## その他（Others）
+OWASP Lifetime membership
