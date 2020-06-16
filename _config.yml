@@ -1,9 +1,6 @@
 # theme: jekyll-theme-cayman
-
 markdown: kramdown
-
 kramdown:
    input: GFM
    hard_wrap: false
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 theme: jekyll-theme-hacker
