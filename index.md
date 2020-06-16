@@ -1,7 +1,5 @@
 
 # yoshiteru nakamura
-
-## 自己紹介（About Me）
 食べものの美味しい地方の企業でサイバーセキュリティ関連の仕事をしてます
 
 ## 興味（Interest）
