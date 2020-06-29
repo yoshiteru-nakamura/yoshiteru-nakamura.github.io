@@ -1,4 +1,4 @@
-# yoshiteru nakamura
+# yoshiteru
 食べものが美味しい地方で、サイバーセキュリティ関連の仕事してます
 
 ## 職務経験（Work Experience）
