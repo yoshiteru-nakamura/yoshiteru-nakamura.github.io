@@ -1,6 +1,6 @@
 <a href="https://twitter.com/yoshiteru?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yoshiteru</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-食べものが美味しい地方で、サイバーセキュリティ関連の仕事してます
+食べものの美味しい地方で、サイバーセキュリティ関連の仕事してます
 
 ## Work Experience
 CSIRT構築・運営、
