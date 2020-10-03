@@ -4,7 +4,7 @@
 
 ## データの保護
 データは必要に応じて暗号化を含む適切な保護を行います。
-収集したデータは、目的外の方法には利用しません。
+収集したデータは、目的外の用途に利用しません。
 
 ## 免責事項
 当サイトやアプリ等の利用で生じた損害等についての責任は一切負いかねますのでご了承ください。
@@ -28,7 +28,7 @@ This privacy policy explains the concept and purpose of use for data protection 
 
 ## Data protection
 Data will be properly protected, including encryption, if necessary.
-The collected data will not be used for any purpose other than its intended purpose.
+The collected data will not be used for any other purpose.
 
 ## Disclaimer
 Please note that we are not responsible for any damage caused by using this site or application.

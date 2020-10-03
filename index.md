@@ -1,23 +1,10 @@
-### アクセスログの取り扱いについて
+# 作品
+[Just Tweetボタン改](JustTweetmod/index)
 
-当サイトでは、Google Analyticsを利用しています。<br>
-データ収集のためcookieが使用され、IPアドレスなどの非個人情報がGoogleに自動送信されます。<br>
-このデータは匿名で収集されており、個人を特定するものではありません。<br>
-Google Analyticsで得た情報は、利用状況の計測・分析、サイトの質の向上目的に使用します。<br>
+# その他
+[プライバシーポリシー](privacy)
 
-当サイトを利用することで、上記の情報収集に承諾したものとみなします。
-
----
-
-### Handling of access logs
-
-This site uses Google Analytics.<br>
-Cookies are used to collect data and non-personal information such as IP addresses are automatically sent to Google.<br>
-This data is collected anonymously and is not personally identifiable.<br>
-The information obtained from Google Analytics will be used for the purpose of measuring and analyzing usage status and improving the quality of the site.<br>
-<br>
-
-By using this site, you are deemed to have consented to the above information collection.
+<a href="https://twitter.com/yoshiteru?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yoshiteru</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -31,4 +18,3 @@ By using this site, you are deemed to have consented to the above information co
   gtag('config', 'UA-115471799-2');
 </script>
 
-<a href="https://twitter.com/yoshiteru?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yoshiteru</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
