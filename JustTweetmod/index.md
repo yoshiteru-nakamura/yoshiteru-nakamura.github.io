@@ -4,12 +4,15 @@
 
 当該機能拡張ではTwitterへの連携以外の目的で一切情報を使用しません。
 
+---
 
 # Just Tweet mod
 ## Privacy Policy
 This is an extension that links the URL and title of the page you are currently viewing to Twitter.
 
 This extension does not use any information for any purpose other than linking to Twitter.
+
+---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115471799-2"></script>
@@ -22,6 +25,8 @@ This extension does not use any information for any purpose other than linking t
 </script>
 
 <a href="https://twitter.com/yoshiteru?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yoshiteru</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 ### アクセスログの取り扱いについて
 
