@@ -1,4 +1,8 @@
 # Just Tweetボタン改
+
+本プログラムのソースコードは、以下のGitHubリポジトリで公開しています。
+https://github.com/yoshiteru-nakamura/JustTweet
+
 ## プライバシーポリシー
 現在閲覧しているページのURLとタイトルをTwitterに連携する機能拡張です。
 
@@ -7,6 +11,10 @@
 ---
 
 # Just Tweet Button mod
+
+The source code of this program is available on the following GitHub repository.
+https://github.com/yoshiteru-nakamura/JustTweet
+
 ## Privacy Policy
 This is an extension that links the URL and title of the page you are currently viewing to Twitter.
 
