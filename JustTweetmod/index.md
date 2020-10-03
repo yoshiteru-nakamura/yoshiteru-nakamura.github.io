@@ -7,6 +7,8 @@
 「
 [Just Tweet Button](https://chrome.google.com/webstore/detail/just-tweet-button/feikojefkpembojkeegfajbbfecocddd)
 」を元に同様のツイートが出来るようにしました。
+
+
 本機能拡張は「
 [Just Tweet Button](https://github.com/koron/JustTweet)
 」を改変したものです。オリジナル作者の方に感謝します。
@@ -26,6 +28,8 @@ This is an extension that links the URL and title of the page you are currently 
 " Can no longer be used, but the same tweet can be made based on "
 [Just Tweet Button](https://chrome.google.com/webstore/detail/just-tweet-button/feikojefkpembojkeegfajbbfecocddd)
 ".
+
+
 This extension is a modification of "
 [Just Tweet Button](https://github.com/koron/JustTweet)
 ". Thank you to the original author.
