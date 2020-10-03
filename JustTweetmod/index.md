@@ -6,7 +6,7 @@
 
 ---
 
-# Just Tweet mod
+# Just Tweet Button mod
 ## Privacy Policy
 This is an extension that links the URL and title of the page you are currently viewing to Twitter.
 
