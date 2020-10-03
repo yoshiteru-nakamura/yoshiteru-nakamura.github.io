@@ -9,6 +9,18 @@ Google Analyticsで得た情報は、利用状況の計測・分析、サイト�
 
 ---
 
+### Handling of access logs
+
+This site uses Google Analytics.<br>
+Cookies are used to collect data and non-personal information such as IP addresses are automatically sent to Google.<br>
+This data is collected anonymously and is not personally identifiable.<br>
+The information obtained from Google Analytics will be used for the purpose of measuring and analyzing usage status and improving the quality of the site.<br>
+<br>
+
+By using this site, you are deemed to have consented to the above information collection.
+
+---
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115471799-2"></script>
 <script>
