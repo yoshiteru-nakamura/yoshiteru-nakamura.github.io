@@ -5,8 +5,7 @@
 本機能拡張は「Just Tweet Button」を改変したものです。オリジナル作者の方に感謝します。
 
 本プログラムのソースコードは、以下のGitHubリポジトリで公開しています。
-[https://github.com/yoshiteru-nakamura/JustTweet]
-(https://github.com/yoshiteru-nakamura/JustTweet)
+[https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
 
 ---
 
@@ -17,8 +16,7 @@ This is an extension that links the URL and title of the page you are currently 
 This extension is a modification of "Just Tweet Button". Thank you to the original author.
 
 The source code of this program is available on the following GitHub repository.
-[https://github.com/yoshiteru-nakamura/JustTweet]
-(https://github.com/yoshiteru-nakamura/JustTweet)
+[https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
 
 ---
 
