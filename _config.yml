@@ -8,3 +8,5 @@ defaults:
         path: /img/github_yoshiteru logo.png
         height: 640
         width: 1280
+
+theme: jekyll-theme-hacker
