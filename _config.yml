@@ -4,10 +4,10 @@ description: For a better future
 google_analytics: UA-115471799-2
 
 twitter:
-  card: summary_large_image
+  card: summary
   username: yoshiteru
 defaults:
   - scope:
       path: ""
     values:
-    image: /img/yoshiteru_header.png
+    image: /img/square.png
