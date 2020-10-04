@@ -1,9 +1,9 @@
 # Just Tweetボタン改
 現在閲覧しているページのURLとタイトルをTwitterに連携する機能拡張です。
 
-「
+最近のChromeでは「
 [Tweet: Now Browsing!](https://chrome.google.com/webstore/detail/tweet-now-browsing/glepgipoohhiadcmcaajmkfniihojnea)」
-が使えなくなりましたが、
+が使えなくなってしまいましたが、
 「
 [Just Tweet Button](https://chrome.google.com/webstore/detail/just-tweet-button/feikojefkpembojkeegfajbbfecocddd)
 」を元に同様のツイートが出来るようにしました。
