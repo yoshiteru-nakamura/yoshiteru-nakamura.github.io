@@ -1,4 +1,4 @@
-![screenshot](/img/screenshot.png "screenshot")
+![screenshot](./img/screenshot.png "screenshot")
 # Just Tweetボタン改
 現在閲覧しているページのURLとタイトルをTwitterに連携する機能拡張です。
 
