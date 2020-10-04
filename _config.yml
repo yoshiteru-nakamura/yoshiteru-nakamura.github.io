@@ -3,5 +3,13 @@ title: yoshiteru.work
 description: For a better future
 google_analytics: UA-115471799-2
 
-twitter:card: summary
-image: /img/square.png
+twitter:
+  card: summary
+  username: yoshiteru
+defaults:
+  - scope:
+      path: ""
+    values:
+    image: /img/square.png
+        height: 576
+        width: 576
