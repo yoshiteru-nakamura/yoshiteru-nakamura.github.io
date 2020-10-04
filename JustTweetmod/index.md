@@ -40,5 +40,3 @@ The source code of this program is available on the following GitHub repository.
 
 
 [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
-
----
