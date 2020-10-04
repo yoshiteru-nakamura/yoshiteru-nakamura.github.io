@@ -2,16 +2,12 @@ theme: jekyll-theme-hacker
 title: yoshiteru.work
 description: For a better future
 google_analytics: UA-115471799-2
-image: /img/yoshiteru_header.png
 
 twitter:
+  card: summary
   username: yoshiteru
 defaults:
   - scope:
       path: ""
     values:
-      image:
-        path: /img/yoshiteru_header.png
-        height: 630
-        width: 1200
-
+    image: /img/yoshiteru_header.png
