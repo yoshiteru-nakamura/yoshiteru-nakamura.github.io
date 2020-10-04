@@ -11,6 +11,4 @@ defaults:
       path: ""
     values:
       image:
-        path: ./img/yoshiteru_logo.jpg
-        height: 630
-        width: 1200
+        path: ./img/yoshiteru_logo.png
