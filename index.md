@@ -1,6 +1,8 @@
+![logo](img/yoshiteru_logo.png)
+
 # 作品
 
-[Just Tweetボタン改](JustTweetmod/)
+[Just Tweetボタン改](JustTweetmod)
 
 # その他
 [プライバシーポリシー](privacy)
