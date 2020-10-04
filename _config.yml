@@ -13,3 +13,5 @@ defaults:
         path: /img/yoshiteru_header.png
         height: 630
         width: 1200
+
+image: /img/yoshiteru_header.png
