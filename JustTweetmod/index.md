@@ -1,5 +1,6 @@
-![screenshot](./img/screenshot.png "screenshot")
 # Just Tweetボタン改
+![screenshot](./img/screenshot.png "screenshot")
+
 現在閲覧しているページのURLとタイトルをTwitterに連携する機能拡張です。
 
 最近のChromeでは「
