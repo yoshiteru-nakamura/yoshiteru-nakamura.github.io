@@ -1,6 +1,4 @@
 # Just Tweetボタン改
-![screenshot](./img/screenshot.png "screenshot")
-
 現在閲覧しているページのURLとタイトルをTwitterに連携する機能拡張です。
 
 最近のChromeでは「
@@ -19,6 +17,8 @@
 
 
 [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
+
+![screenshot](./img/screenshot.png "screenshot")
 
 ---
 
