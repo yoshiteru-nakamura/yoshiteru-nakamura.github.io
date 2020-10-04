@@ -3,8 +3,7 @@ title: yoshiteru.work
 description: For a better future
 google_analytics: UA-115471799-2
 
-twitter:
-  card: summary
+twitter:card: summary
   username: yoshiteru
 defaults:
   - scope:
