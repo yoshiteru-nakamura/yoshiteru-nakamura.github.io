@@ -1,5 +1,3 @@
-![logo](img/yoshiteru_logo.png)
-
 # 作品
 
 [Just Tweetボタン改](JustTweetmod)
