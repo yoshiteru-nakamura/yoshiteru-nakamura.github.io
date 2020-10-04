@@ -1,4 +1,3 @@
-![screenshot](./img/screenshot.png "screenshot")
 # Just Tweetボタン改
 現在閲覧しているページのURLとタイトルをTwitterに連携する機能拡張です。
 
@@ -18,6 +17,8 @@
 
 
 [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
+
+![screenshot](./img/screenshot.png "screenshot")
 
 ---
 
@@ -39,7 +40,3 @@ The source code of this program is available on the following GitHub repository.
 
 
 [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
-
----
-
-<a href="https://twitter.com/yoshiteru?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yoshiteru</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
