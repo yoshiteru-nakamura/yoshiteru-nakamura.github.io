@@ -1,4 +1,5 @@
-![Large image] (./img/yoshiteru_header.png)
+
+![image] (/img/yoshiteru_header.png)
 
 # Index
 
