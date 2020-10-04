@@ -1,4 +1,19 @@
 theme: jekyll-theme-hacker
+
+title: [yoshiteru.work]
+description: [For a better future]
+url: [yoshiteru-nakamura.githug.io]
+author:
+  name: [yoshiteru]
+  email: [yoshiteru@outlook.com]
+  url: [yoshiteru.work]
+
+paginate: [Number of posts in one paginated section (default: 3)]
+owner: [yoshiteru]
+year: [2020]
+
+google_analytics: [UA-115471799-2]
+
 twitter:
   username: yoshiteru
 defaults:
