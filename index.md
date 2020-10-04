@@ -1,6 +1,6 @@
 # 作品
 
-[Just Tweetボタン改](JustTweetmod/index)
+[Just Tweetボタン改](JustTweetmod/)
 
 # その他
 [プライバシーポリシー](privacy)
