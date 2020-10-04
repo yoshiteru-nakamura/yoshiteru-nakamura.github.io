@@ -1,3 +1,4 @@
+[Large image] (./img/yoshiteru_header.png)
 # Index
 
 ## 作品
