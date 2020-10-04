@@ -4,7 +4,7 @@ description: For a better future
 google_analytics: UA-115471799-2
 
 twitter:
-  card: summary
+  card: summary_large_image
   username: yoshiteru
 defaults:
   - scope:
