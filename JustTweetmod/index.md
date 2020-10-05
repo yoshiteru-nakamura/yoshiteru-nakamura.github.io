@@ -1,4 +1,7 @@
+|[Chrome ウェブストアのページに移動](https://chrome.google.com/webstore/detail/just-tweet-button-mod/ldlnplkhnncjkancombeidklmdpfpgkn)|
+---
 # Just Tweetボタン改
+
 現在閲覧しているページのURLとタイトルをTwitterに連携する機能拡張です。
 
 最近のChromeでは「
@@ -17,6 +20,9 @@
 
 
 [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
+
+
+Chrome https://chrome.google.com/webstore/detail/just-tweet-button-mod/ldlnplkhnncjkancombeidklmdpfpgkn
 
 ![screenshot](./img/screenshot.png "screenshot")
 
