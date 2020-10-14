@@ -23,8 +23,6 @@
 [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
 
 
-Chrome https://chrome.google.com/webstore/detail/just-tweet-button-mod/ldlnplkhnncjkancombeidklmdpfpgkn
-
 ![screenshot](./img/screenshot.png "screenshot")
 
 ---
