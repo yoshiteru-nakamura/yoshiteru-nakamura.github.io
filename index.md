@@ -4,7 +4,7 @@
 
 ## 作品
 + [Just Tweetボタン改](JustTweetmod)
-+ [Tweet Link and Title 改](TweetLinkandTitlemod)
++ [Tweet Link and Title改](TweetLinkandTitlemod)
 
 ---
 

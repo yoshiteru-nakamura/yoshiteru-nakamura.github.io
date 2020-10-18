@@ -1,5 +1,5 @@
 
-# Tweet Link and Title 改
+# Tweet Link and Title改
 [ショートカットのダウンロードページに移動](https://www.icloud.com/shortcuts/261c06ecfcb240ad91b9ad0b025e1179)
 
 + 現在閲覧しているページのURLとタイトルをTwitterに連携するiOS/iPad OSのショートカットです。
@@ -9,6 +9,6 @@
 
 ---
 
-# Tweet Link and Title
+# Tweet Link and Title mod
 + This is a shortcut to link the URL and title of the page currently being viewed on iOS / iPad OS to Twitter.
  Modified to automatically delete extra UTM parameters.
