@@ -16,8 +16,7 @@
 [Just Tweet Button](https://github.com/koron/JustTweet)
 」を改変したものです。オリジナル作者の方に感謝します。
 
-+ 本プログラムのソースコードは、以下のGitHubリポジトリで公開しています。
-
++ 本プログラムのソースコードは、以下のGitHubリポジトリで公開しています。<br>
  [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
 
 
@@ -39,6 +38,5 @@
 [Just Tweet Button](https://github.com/koron/JustTweet)
 ". Thank you to the original author.
 
-+ The source code of this program is available on the following GitHub repository.
-
++ The source code of this program is available on the following GitHub repository.<br>
  [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
