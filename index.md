@@ -8,7 +8,7 @@
 #### Chrome Extension
 
 + [Tweet Link and Title改](TweetLinkandTitlemod)
-#### iOS iPadOS Short Cut
+#### iOS & iPadOS ShortCut Recipe
 
 ---
 
