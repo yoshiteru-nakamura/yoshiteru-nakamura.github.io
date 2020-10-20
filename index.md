@@ -3,8 +3,12 @@
 ---
 
 ## 作品
-+ [Just Tweetボタン改](JustTweetmod)
-+ [Tweet Link and Title改](TweetLinkandTitlemod)
++ Twitter Utility
+
+|||
+|:-|:-|
+|Chrome Extension|[Just Tweetボタン改](JustTweetmod)|
+|iOS iPadOS Short Cut|[Tweet Link and Title改](TweetLinkandTitlemod)|
 
 ---
 
