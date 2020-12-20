@@ -5,8 +5,6 @@
 + 現在閲覧しているページのURLとタイトルをTwitterに連携するiOS/iPad OSのショートカットです。
  余分なUTMパラメータを自動削除するように改変しました。
 
-+ [noteに記事を書きました](https://note.com/yoshiteru11/n/nd399c8f5da7c)
-
 ---
 
 # Tweet Link and Title mod
