@@ -16,11 +16,11 @@
  [https://github.com/yoshiteru-nakamura/JustTweet](https://github.com/yoshiteru-nakamura/JustTweet)
 
 
-![screenshot](./img/1.png)
-![screenshot](./img/2.png)
-![screenshot](./img/3.png)
-![screenshot](./img/4.png)
-![screenshot](./img/5.png)
+![screenshot](./img/1.jpg)
+![screenshot](./img/2.jpg)
+![screenshot](./img/3.jpg)
+![screenshot](./img/4.jpg)
+![screenshot](./img/5.jpg)
 ---
 
 # Just Tweet Button mod
