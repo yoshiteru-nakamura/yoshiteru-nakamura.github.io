@@ -3,11 +3,6 @@
 [Chrome ウェブストアのページに移動](https://chrome.google.com/webstore/detail/just-tweet-button-mod/ldlnplkhnncjkancombeidklmdpfpgkn)
 
 + 現在閲覧しているページのURLとタイトルをTwitterに連携するChrome機能拡張です。<br>
- 最近のChromeでは「
-[Tweet: Now Browsing!](https://chrome.google.com/webstore/detail/tweet-now-browsing/glepgipoohhiadcmcaajmkfniihojnea)」
-が使えなくなってしまいましたが、「
-[Just Tweet Button](https://chrome.google.com/webstore/detail/just-tweet-button/feikojefkpembojkeegfajbbfecocddd)
-」を元に同様のツイートが出来るようにしました。<br>
 本機能拡張は「
 [Just Tweet Button](https://github.com/koron/JustTweet)
 」を改変したものです。オリジナル作者の方に感謝します。
