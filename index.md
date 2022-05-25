@@ -1,8 +1,13 @@
 ![logo](/img/yoshiteru_logo.png)
 
+## about
+IT活用を推進するセキュリティエンジニア  
+テクノロジー全般、データ分析や電子工作に興味があります。  
+趣味でプログラムや音楽書いてます。
+
 ---
 
-## 作品
+## works
 ### Twitter Utility
 + [Just Tweetボタン改](JustTweetmod)
 #### Chrome Extension
@@ -12,7 +17,7 @@
 
 ---
 
-## その他
+## others
 + [プライバシーポリシー](privacy)
 
 ---
