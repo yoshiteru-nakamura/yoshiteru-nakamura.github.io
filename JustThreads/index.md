@@ -1,7 +1,7 @@
 
 # Just Threads
 
-[Chrome ウェブストアのページに移動](https://chrome.google.com/webstore/detail/just-Threads/ldlnplkhnncjkancombeidklmdpfpgkn)
+<!-- [Chrome ウェブストアのページに移動](https://chrome.google.com/webstore/detail/just-Threads/ldlnplkhnncjkancombeidklmdpfpgkn) -->
 
 + 現在閲覧しているページのURLとタイトルをThreadsに連携するChrome機能拡張です。  
 本プログラムのソースコードは、以下のGitHubリポジトリで公開しています。  
