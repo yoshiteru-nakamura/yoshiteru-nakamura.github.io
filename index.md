@@ -8,6 +8,8 @@ IT活用を推進するセキュリティエンジニア
 ---
 
 ## works
+### Threads Utility
++ [Just Threads](JustThreaad)
 ### X(Twitter) Utility
 + [Just Tweetボタン改](JustTweetmod)
 #### Chrome Extension
