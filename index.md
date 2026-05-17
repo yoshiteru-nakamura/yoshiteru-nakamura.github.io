@@ -8,7 +8,7 @@ IT活用を推進するセキュリティエンジニア
 ---
 
 ## works
-### Twitter Utility
+### X(Twitter) Utility
 + [Just Tweetボタン改](JustTweetmod)
 #### Chrome Extension
 
